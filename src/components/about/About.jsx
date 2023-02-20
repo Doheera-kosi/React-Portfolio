@@ -41,7 +41,7 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Explicabo rem voluptas vitae culpa eius amet ratione vel aperiam fugiat rerum, praesentium non eum natus voluptatibus est? Ipsum aut minus facere!
+            I'm Evans Kupour a software developer specialized in different technologies ,Building web applications, Mobile apps and beautiful websites for companies. Love digging into hard problems, learning new languages and technologies.
           </p>
           
           <a href="#contact" className='btn btn-primary'>Let's Talk Now</a>
