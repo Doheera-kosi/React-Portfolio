@@ -141,7 +141,7 @@ function Certificates() {
     // Add the remaining certificates here
   ];
 
-  const visibleCertificates = showAll ? certificates : certificates.slice(0, 5);
+  const visibleCertificates = showAll ? certificates : certificates.slice(0, 3);
 
   return (
     <>
