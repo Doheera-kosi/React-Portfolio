@@ -161,7 +161,7 @@ function Certificates() {
               </article>
             ))}
             {!showAll && (
-              <button onClick={() => setShowAll(true)}>Show More</button>
+              <button className='show__more' onClick={() => setShowAll(true)}>Show More</button>
             )}
           </div>
         </div>

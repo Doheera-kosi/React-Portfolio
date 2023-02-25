@@ -11,7 +11,8 @@
   gap: 1.2rem;
 }
 
-.certificate__option {
+.certificate__option,
+.show__more {
   background: var(--color-bg-variant);
   padding: 1.2rem;
   border-radius: 1.2rem;
@@ -20,7 +21,16 @@
   transition: var(--transition);
 }
 
+.show__more {
+  color: var(--color-white);
+}
+
 .certificate__option:hover {
+  background: transparent;
+  border-color: var(--color-primary-variant);
+}
+
+.show__more:hover {
   background: transparent;
   border-color: var(--color-primary-variant);
 }
