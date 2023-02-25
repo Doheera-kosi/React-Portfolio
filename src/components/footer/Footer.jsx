@@ -5,7 +5,7 @@ import {FaFacebookF, FaLinkedin, FaAngellist, FaTwitter, FaWhatsapp} from 'react
 const Footer = () => {
   return (
     <footer id="footer">
-      <a href="#" className='footer__logo'>ICAN</a>
+      <a href="#" className='footer__logo'>Evans Kupour</a>
 
       <ul className="permalinks">
         <li><a href="#">Home</a></li>
@@ -26,7 +26,7 @@ const Footer = () => {
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; Evans. All rights reseved</small>
+        <small>&copy; 2023 Evans Kupour. All rights reseved</small>
       </div>
     </footer>
   )

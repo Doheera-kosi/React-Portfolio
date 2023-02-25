@@ -1,54 +1,54 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/avatar1.png'
-// import IMG1 from '../../assets/avatar1.png'
-// import IMG1 from '../../assets/avatar1.png'
-// import IMG1 from '../../assets/avatar1.png'
-// import IMG1 from '../../assets/avatar1.png'
-// import IMG1 from '../../assets/avatar1.png'
+import Port1 from '../../assets/port1.png'
+import Port2 from '../../assets/port2.png'
+import Port3 from '../../assets/port3.png'
+import Port4 from '../../assets/port4.png'
+import Port5 from '../../assets/port5.png'
+import Port6 from '../../assets/port6.png'
 
 const data = [
   {
     id: 1,
-    image:'IMG1',
-    title: 'Crypto Dashboard',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    image: Port1,
+    title: 'Activity Manager (Todo-list)',
+    github: 'https://github.com/Doheera-kosi/todo-list-app',
+    demo: 'https://doheera-kosi.github.io/todo-list-app/dist/'
   },
   {
     id: 2,
-    image:'IMG1',
-    title: 'Crypto Dashboard',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    image: Port2,
+    title: 'Food Palace - (Non-mobile)',
+    github: 'https://github.com/Doheera-kosi/Food-Palace',
+    demo: 'https://doheera-kosi.github.io/Food-Palace/dist/'
   },
   {
     id: 3,
-    image:'IMG1',
-    title: 'Crypto Dashboard',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    image: Port3,
+    title: 'Expenses Manager - (Mobile)',
+    github: 'https://github.com/Doheera-kosi/Budget-App/tree/development',
+    demo: 'https://budgets-ek.onrender.com/'
   },
   {
     id: 4,
-    image:'IMG1',
-    title: 'Crypto Dashboard',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    image: Port4,
+    title: 'Crypto Stats Dashboard - (Mobile)',
+    github: 'https://github.com/Doheera-kosi/Crypto-Metrics-App',
+    demo: 'https://beautiful-cobbler-2a0f6f.netlify.app/'
   },
   {
     id: 5,
-    image:'IMG1',
-    title: 'Crypto Dashboard',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    image: Port5,
+    title: 'JavaScript Currency Converter',
+    github: 'https://github.com/Doheera-kosi/JavaScript-Currency-Converter/tree/working',
+    demo: 'https://doheera-kosi.github.io/JavaScript-Currency-Converter/'
   },
   {
     id: 6,
-    image:'IMG1',
-    title: 'Crypto Dashboard',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    image: Port6,
+    title: 'Leaderboard-(Non-mobile)',
+    github: 'https://github.com/Doheera-kosi/Leaderboard-setup-project/tree/Leaderboard-final-tuches',
+    demo: 'https://doheera-kosi.github.io/Leaderboard-setup-project/dist/'
   },
 ]
 
@@ -65,7 +65,7 @@ const Portfolio = () => {
             return (
               <article key={id} className="portfolio__item">
               <div className="portfolio__item-image">
-                <img src={IMG1} alt={title} />
+                <img src={image} alt={title} />
               </div>
               <h3>{title}</h3>
               <div className="portfolio__item-cta">
