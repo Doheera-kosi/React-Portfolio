@@ -32,6 +32,17 @@ nav a.active {
   color: var(--color-bg);
 }
 
+.button-link {
+  background-color: transparent;
+  border: none;
+  color: blue;
+  cursor: pointer;
+  text-decoration: underline;
+  font-size: inherit;
+  font-family: inherit;
+  padding: 0;
+}
+
 /*============= MEDIA QUERIES (MEDIUM DEVICES) =============*/
 @media screen and (max-width: 1024px) {
 
