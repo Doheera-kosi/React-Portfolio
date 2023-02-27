@@ -5,7 +5,7 @@ import {FaFacebookF, FaLinkedin, FaAngellist, FaTwitter, FaWhatsapp} from 'react
 const Footer = () => {
   return (
     <footer id="footer">
-      <a href="#home" className='footer__logo'>Evans Kupour</a>
+      <a href="/" className='footer__logo'>Evans Kupour</a>
 
       <ul className="permalinks">
         <li><a href="#home">Home</a></li>

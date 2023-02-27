@@ -91,7 +91,7 @@ const Services = () => {
             </li>
           </ul>
         </article>
-        <article className="service">
+        {/* <article className="service">
           <div className="service__head">
             <h3>UI/UX Design</h3>
           </div>
@@ -125,7 +125,7 @@ const Services = () => {
               <p>Lorem ipsum dolor sit amet.</p>
             </li>
           </ul>
-        </article>
+        </article> */}
 
         {/* End of First Card */}
         
