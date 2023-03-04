@@ -1,6 +1,6 @@
 import React from 'react'
 import './footer.css'
-import {FaFacebookF, FaLinkedin, FaAngellist, FaTwitter, FaWhatsapp} from 'react-icons/fa'
+import {FaFacebookF, FaLinkedin, FaAngellist, FaTwitter, FaWhatsapp, FaGithub} from 'react-icons/fa'
 
 const Footer = () => {
   return (
@@ -23,7 +23,7 @@ const Footer = () => {
         <a href="https://angellist.com/evans"><FaAngellist /></a>
         <a href="https://twitter.com/@KupourE" target='_blank' rel='noreferrer'><FaTwitter /></a>
         <a href="https://api.whatsapp.com/send?phone=+233203596223&text=Hello%20there!" target='_blank' rel='noreferrer'><FaWhatsapp /></a>
-        <a href="https://github.com/Doheera-kosi" target='_blank' rel='noreferrer'><FaWhatsapp /></a>
+        <a href="https://github.com/Doheera-kosi" target='_blank' rel='noreferrer'><FaGithub /></a>
       </div>
 
       <div className="footer__copyright">
