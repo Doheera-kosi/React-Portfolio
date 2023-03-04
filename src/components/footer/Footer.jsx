@@ -22,7 +22,8 @@ const Footer = () => {
         <a href="https://www.linkedin.com/in/evans-kupour-1879421a3/" target='_blank' rel='noreferrer'><FaLinkedin /></a>
         <a href="https://angellist.com/evans"><FaAngellist /></a>
         <a href="https://twitter.com/@KupourE" target='_blank' rel='noreferrer'><FaTwitter /></a>
-        <a href="https://api.whatsapp/sned?phone+233203596223" target='_blank' rel='noreferrer'><FaWhatsapp /></a>
+        <a href="https://api.whatsapp.com/send?phone=+233203596223&text=Hello%20there!" target='_blank' rel='noreferrer'><FaWhatsapp /></a>
+        <a href="https://github.com/Doheera-kosi" target='_blank' rel='noreferrer'><FaWhatsapp /></a>
       </div>
 
       <div className="footer__copyright">
