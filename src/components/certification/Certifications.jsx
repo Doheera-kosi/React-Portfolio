@@ -32,9 +32,9 @@ function Certificates() {
     },
     {
       id: 5,
-      issuer: 'IBM',
-      title: 'Introduction to Cloud Computing',
-      link: 'https://www.coursera.org/account/accomplishments/certificate/ZYD8HLBKNUJA',
+      issuer: 'Microverse',
+      title: 'Full Stack Capstone',
+      link: 'https://www.credential.net/86d6d3dd-3f9f-40e8-84b2-515479da6285',
     },
     {
       id: 6,
@@ -173,6 +173,12 @@ function Certificates() {
       issuer: 'Meta',
       title: 'Introduction to Databases for Back-End Development',
       link: 'https://www.coursera.org/account/accomplishments/certificate/LPL4Q2KDY6KE',
+    },
+    {
+      id: 29,
+      issuer: 'IBM',
+      title: 'Introduction to Cloud Computing',
+      link: 'https://www.coursera.org/account/accomplishments/certificate/ZYD8HLBKNUJA',
     },
     // Add the remaining certificates here
   ];
