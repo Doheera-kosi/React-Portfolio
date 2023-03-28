@@ -52,6 +52,13 @@ header {
   padding: 5rem 1.5rem 1.5rem; 
 }
 
+.img__me {
+  /* background: black; */
+  position: relative;
+  left: 1.5rem;
+  bottom: 3rem;
+}
+
 /*=========== CTA =========== */
 .scroll__down {
   position: absolute;
