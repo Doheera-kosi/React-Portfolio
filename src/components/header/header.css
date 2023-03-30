@@ -70,10 +70,6 @@ header {
 
 /*============= MEDIA QUERIES (MEDIUM DEVICES) =============*/
 @media screen and (max-width: 1024px) {
-  /* .container {
-    background: red;
-  }
-   */
   header {
     height: 68vh;
   }
