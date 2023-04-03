@@ -54,6 +54,7 @@ const Contact = () => {
             <h5>Evans@WellFound</h5>
             <a href="https://wellfound.com/u/kupour-evans" target='_blank' rel='noreferrer'>Just send me a message</a>
           </article>
+
         </div>
         
         {/* End of Cantact options */}
