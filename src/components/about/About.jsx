@@ -41,7 +41,7 @@ const About = () => {
           </div>
 
           <p>
-            I'm Evans Kupour a software developer specialized in different technologies ,Building web applications, Mobile apps and beautiful websites for companies. Love digging into hard problems, learning new languages and technologies.
+            I'm Evans Kupour a software developer specialized in different technologies, building web applications, mobile apps and beautiful websites for companies. Love digging into hard problems, learning new languages and technologies.
           </p>
           
           <a href="#contact" className='btn btn-primary'>Let's Talk Now</a>
