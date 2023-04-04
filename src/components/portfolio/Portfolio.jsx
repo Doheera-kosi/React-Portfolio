@@ -2,7 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import Port1 from '../../assets/port1.png'
 import Port2 from '../../assets/port2.png'
-// import Port3 from '../../assets/port3.png'
+import Port3 from '../../assets/port3.png'
 import Port4 from '../../assets/port4.png'
 import Port5 from '../../assets/port5.png'
 import Port6 from '../../assets/port6.png'
@@ -24,14 +24,14 @@ const data = [
     github: 'https://github.com/Doheera-kosi/Food-Palace',
     demo: 'https://doheera-kosi.github.io/Food-Palace/dist/'
   },
-  // {
-  //   id: 3,
-  //   image: Port3,
-  //   title: 'Expenses Manager - (Mobile)',
-  // desc: '',
-  //   github: 'https://github.com/Doheera-kosi/Budget-App/tree/development',
-  //   demo: 'https://budgets-ek.onrender.com/'
-  // },
+  {
+    id: 3,
+    image: Port3,
+    title: 'Expenses Manager - (Mobile)',
+    desc: 'Simple and responsive travel website built with HTML, CSS , and JavaScript',
+    github: 'https://github.com/Doheera-kosi/Travel-Site',
+    demo: 'https://evans-travel-site.netlify.app/'
+  },
   {
     id: 4,
     image: Port4,
