@@ -27,7 +27,7 @@ const data = [
   {
     id: 3,
     image: Port3,
-    title: 'Expenses Manager - (Mobile)',
+    title: 'Travel Website',
     desc: 'Simple and responsive travel website built with HTML, CSS , and JavaScript',
     github: 'https://github.com/Doheera-kosi/Travel-Site',
     demo: 'https://evans-travel-site.netlify.app/'
