@@ -52,8 +52,9 @@ const Contact = () => {
             <FaAngellist className='contact__option-icon' />
             <h4>Well-Found</h4>
             <h5>Evans@WellFound</h5>
-            <a href="https://" target='_blank' rel='noreferrer'>Just send me a message</a>
+            <a href="https://wellfound.com/u/kupour-evans" target='_blank' rel='noreferrer'>Just send me a message</a>
           </article>
+
         </div>
         
         {/* End of Cantact options */}
