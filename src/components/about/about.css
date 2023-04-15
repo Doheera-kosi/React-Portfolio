@@ -64,6 +64,9 @@ about__content p {
   margin: 2rem 0 2.6rem;
 }
 
+small {
+  display: none;
+}
 
 /*============= MEDIA QUERIES (MEDIUM DEVICES) =============*/
 @media screen and (max-width: 1024px) {
